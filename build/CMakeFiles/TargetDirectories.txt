@@ -1,0 +1,3 @@
+/Users/anthonycano-luna/CLionProjects/RaytacingInAWeekend/build/CMakeFiles/raytracer.dir
+/Users/anthonycano-luna/CLionProjects/RaytacingInAWeekend/build/CMakeFiles/edit_cache.dir
+/Users/anthonycano-luna/CLionProjects/RaytacingInAWeekend/build/CMakeFiles/rebuild_cache.dir
