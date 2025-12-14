@@ -956,8 +956,14 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/anthonycano-luna/CLionProjects/Raytac
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/limits.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stddef.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdint.h
+  /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdint.h \
+  /Users/anthonycano-luna/CLionProjects/RaytacingInAWeekend/color.h \
+  /Users/anthonycano-luna/CLionProjects/RaytacingInAWeekend/vec3.h
 
+
+/Users/anthonycano-luna/CLionProjects/RaytacingInAWeekend/vec3.h:
+
+/Users/anthonycano-luna/CLionProjects/RaytacingInAWeekend/color.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdint.h:
 
